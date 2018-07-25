@@ -1,2 +1,2 @@
 # QuizNinja
-Herein are the files am using to develop a Quiz applicaction: NInja Quiz App
+Herein are the files am using to develop a Quiz application: Ninja Quiz App
