@@ -18,8 +18,8 @@ for(const [question, answer] of quiz){
 		alert("Correct!");
 		score++;
 	} else {
-		alert('Wrong! The correct answer was'+ ${answer});
+		alert('Wrong! The correct answer was'+ answer);
 	}
 }
 //At the end of the game, report the player's score
-alert("Game Over, you scored ${score}" point${score !== 1} ? 's' : ''}');
+alert("Game Over, you scored "+score point+ (score !== 1) ? 's' : '');
