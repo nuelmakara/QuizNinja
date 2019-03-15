@@ -16,8 +16,16 @@ for(const [question, answer] of quiz.entries()){
 		//increment the score count by 1
 		score++;
 	} else {
+          //QuizNinja
 		alert(`Wrong! The correct answer was ${answer}`);
 	}
 }
 //At the end of the game, report the player's score
 alert(`Game Over, you scored ${score} point${score > 1 ? 's' : ''}`);
+=======
+		alert(`Wrong! The correct answer was ${answer}`);
+	}
+}
+//At the end of the game, report the player's score
+alert(`Game Over, you scored ${score} point${score > 1 ? 's' : ''}`);
+
